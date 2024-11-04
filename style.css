@@ -10,3 +10,11 @@ header{
      color:rgb(171, 122, 216);
      
 }
+
+section{
+    background-color: rgd(117, 112, 112);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
