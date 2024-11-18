@@ -18,3 +18,14 @@ section{
     display: flex;
     justify-content: center;
 }
+
+img{
+    height: 200px;
+}
+
+.categoria-videos{
+       display: flex;
+       overflow-x: auto;
+       padding-right: 10px;
+       gap: 10px;
+}
